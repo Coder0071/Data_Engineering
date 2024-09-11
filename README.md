@@ -6,3 +6,6 @@
 <p><b>Purpose:</b> <br>
 Data models help stakeholders, such as data analysts, scientists, and engineers, to understand the organization's data and how it's used. <br><br>
  
+<b>Components:</b> <br>
+Data models include entities, entity instances, attributes, and relationships. <br><br>
+ 
