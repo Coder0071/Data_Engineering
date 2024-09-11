@@ -9,3 +9,9 @@ Data models help stakeholders, such as data analysts, scientists, and engineers,
 <b>Components:</b> <br>
 Data models include entities, entity instances, attributes, and relationships. <br><br>
  
+<b> Steps: </b><br>
+The steps to building a data model include requirements analysis, conceptual modeling, logical modeling, physical modeling, and maintenance and optimization. <br><br>
+ 
+<b> Types of data models: </b><br>
+There are different types of data models, including graph data models, which are often used to describe complex relationships in social networks, recommendation engines, and fraud detection applications. <br><br>
+</p>
